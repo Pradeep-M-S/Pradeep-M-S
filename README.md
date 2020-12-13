@@ -1,9 +1,4 @@
-<div align="center" style="height:100px,width:100px">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:30%" />
-</div>  
-  
-
-### <div align="center">I'm Pradeep M S, a front-end developer 👨‍💻 . I code for fun and profit 🚀</div>  
+ <div align="center">I'm Pradeep M S, a front-end developer 👨‍💻 . I code for fun and profit 🚀</div>  
   
 
 - 🔭 I’m currently working on some Personal projects  
@@ -108,5 +103,4 @@
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
