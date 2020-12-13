@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Pradeep M S</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pradeep-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-m-s" /> </p>
+<p align="left" padding="10px"> <img src="https://komarev.com/ghpvc/?username=pradeep-m-s&label=Profile%20views&color=0e75b6&style=flat" alt="pradeep-m-s" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pradeep-m-s" alt="pradeep-m-s" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native**, **React** 
 
 - 👨‍💻 All of my projects are available at [www.pradeepms.xyz](www.pradeepms.xyz)
 
