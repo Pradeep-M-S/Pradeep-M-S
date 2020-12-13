@@ -1,5 +1,15 @@
  <div align="center">I'm Pradeep M S, a front-end developer 👨‍💻 . I code for fun and profit 🚀</div>  
   
+  
+  
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=pradeep-m-s&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
 - 🔭 I’m currently working on some Personal projects  
   
@@ -91,14 +101,6 @@
 
   
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=pradeep-m-s&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
 
 
 <br />
